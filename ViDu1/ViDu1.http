@@ -1,0 +1,6 @@
+@ViDu1_HostAddress = http://localhost:5057
+
+GET {{ViDu1_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

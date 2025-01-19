@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ViDu1.props" />
+</Project>
